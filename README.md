@@ -3,8 +3,8 @@
 node telegram bots writen in telegraf
 ```bash
 
-node init -y 
-node install telegraf
+npm init -y 
+npm install telegraf
 
 ```
 
