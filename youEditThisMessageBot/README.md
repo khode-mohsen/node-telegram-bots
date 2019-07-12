@@ -1,9 +1,10 @@
 # youEditedThisMessageBot
 
 dependencies :
-    - sqlite3
-    - sequelize
-    - telegraf
+  - sqlite3
+  - sequelize
+  - telegraf
+
 
 ```bash
   npm install [dependencies]
