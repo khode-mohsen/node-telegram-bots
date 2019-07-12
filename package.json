@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/khode-mohsen/node-telegram-bots#readme",
   "dependencies": {
-    "orm": "^5.0.4"
+    "orm": "^5.0.4",
+    "sqlite3": "^4.0.9"
   }
 }
